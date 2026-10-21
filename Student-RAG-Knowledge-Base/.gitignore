@@ -1,0 +1,31 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Do NOT commit generated vector database files
+vector_store/
+!vector_store/.gitkeep
+
+# Do NOT commit personal confidential documents
+Student Knowledge Base/*
+!Student Knowledge Base/README.txt
+!Student Knowledge Base/README.md
+!Student Knowledge Base/.gitkeep
+
+# Temporary test data directories
+temp_test_data/
+temp_test_*/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
