@@ -1,5 +1,4 @@
 # Personal Knowledge Base — RAG Question Answering System
-### College Laboratory Experiment 8: B.Tech Computer Science (AI & ML)
 
 A robust, beginner-friendly, and strictly grounded Retrieval-Augmented Generation (RAG) system that allows you to query your personal academic documents (resumes, transcripts, project reports, certificates, and notes) with **zero hallucination**. If information cannot be found in the uploaded documents, the system refuses to invent facts and responds:
 
